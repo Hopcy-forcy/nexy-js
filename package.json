@@ -1,5 +1,5 @@
 {
-  "name": "nectar-app",
+  "name": "nexy-cli",
   "version": "0.0.1",
   "description": "Une bibliothèque JavaScript pour la création de pages Web belles et réactives",
   "main": "lib/main.js",
